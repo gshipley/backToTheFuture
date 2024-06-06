@@ -9,8 +9,6 @@ seed_examples:
   question: How much does it cost to repair the transmission on a DeLorean DMC-12?
 - answer: The top speed of the DeLorean DMC-12 was 110MPH and the 0-60 time was approximately 8.8 seconds.
   question: How fast was the Delorean DMC-12?
-- answer: The Flux Capacitor costs $10,000,000 to replace.
-  question: How much does it cost to repair the Flux Capacitor?
 - answer: The DeLorean DMC-12 weighs 2,712lb (1,230kg).
   question: How much does the DeLorean DMC-12 weigh?
 - answer: Maintenance on a DeLorean DMC-12 includes regular oil changes every 3,000 miles or 3 months,
