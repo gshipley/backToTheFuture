@@ -8,7 +8,7 @@ Specifications
 
 The Manufacturer is DeLorean Motor Company
 Production Years: 1981–1983
-Body Style: 2-door coupé
+Body Style: 2-door coupe
 Engine: 2.85 L V6 PRV engine
 Transmission 5-speed manual or 3-speed automatic
 Horsepower 130 hp
@@ -16,6 +16,7 @@ Horsepower 130 hp
 Approximately 8.8 seconds
 110 mph
 2,712 lb (1,230 kg)
+Flux capacitor fitted for time travel
 
 Here are some common repairs and costs.
 
@@ -37,12 +38,15 @@ Brake Fluid should be changed every 2 years.
 Transmission Fluid should be changed every 30,000 miles.
 Coolant should be changed every 2 years
 You should regularly check the battery for corrosion and proper connection.
+You should add new fluid to the flux capacitor on a regular basis.
 
 Here are some fun facts.
 
 The DeLorean DMC-12 was originally intended to have a mid-engine layout, but this was later changed to a rear-engine layout due to design and cost constraints.
 
 The DeLorean time machine special edition can time travel by accelerating to 88 miles per hour.
+
+The flux capacitor, which enables time travel, costs $10,000,000 dollars.
 
 Here are some conclusions.
 
