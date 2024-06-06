@@ -30,6 +30,7 @@ The DeLorean DMC-12 is a sports car manufactured by John DeLorean's DeLorean Mot
 | Gull-wing Door Mechanism   | $500 - $800              |
 | Air Conditioning Repair    | $300 - $600              |
 | General Maintenance        | $200 - $500 per service  |
+| Flux Capacitor             | $10,000,000              |
 
 ## Maintenance Tips
 
@@ -39,9 +40,10 @@ The DeLorean DMC-12 is a sports car manufactured by John DeLorean's DeLorean Mot
 - **Coolant:** Change every 2 years.
 - **Battery Check:** Regularly check for corrosion and proper connection.
 
-## Fun Fact
+## Fun Facts
 
-The DeLorean DMC-12 was originally intended to have a mid-engine layout, but this was later changed to a rear-engine layout due to design and cost constraints.
+- The DeLorean DMC-12 was originally intended to have a mid-engine layout, but this was later changed to a rear-engine layout due to design and cost constraints.
+- The DeLorean time machine special edition can time travel by accelerating to 88 miles per hour.
 
 ## Conclusion
 
