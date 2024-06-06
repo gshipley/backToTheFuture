@@ -20,6 +20,6 @@ seed_examples:
 task_description: 'Details on instructlab community project'
 document:
   repo: https://github.com/gshipley/backToTheFuture.git
-  commit: 777e37067321efcd5b9f324485834912bcc04841
+  commit: 8bd9220c616afe24b9673d94ec1adce85320809c
   patterns:
     - data.md
