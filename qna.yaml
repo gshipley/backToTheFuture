@@ -1,6 +1,6 @@
 version: 3
-domain: astronomy
-created_by: juliadenham
+domain: time_travel
+created_by: Grant Shipley
 seed_examples:
   - context: |
       The DeLorean DMC-12 is a sports car manufactured by John DeLorean's DeLorean Motor Company
