@@ -51,7 +51,7 @@ seed_examples:
       Approximately 8.8 seconds
       110 mph
       2,712 lb (1,230 kg)
-      Flux capacitor fitted for time travel
+      Flux capacitor fitted for time travel and costs $10,000,000
     questions_and_answers:
       - question: What was the production years of the DeLorean DMC-12?
         answer: |
@@ -63,7 +63,7 @@ seed_examples:
       - question: |
           What is the flux capacitor used for in a Delorean DMC-12?
         answer: |
-          The flux capacitor is used for time travel capabilities.
+          The flux capacitor is used for time travel capabilities and costs $10,000,000.
   - context: |
       Here is a maintenance schedule.
       Regular Oil Changes should be done every 3,000 miles or 3 months.
