@@ -34,7 +34,7 @@ seed_examples:
           How much does it cost to repair the transmission on a DeLorean DMC-12?
         answer: |
           Transmission Repair costs between $2,500 and $4,000 for the Delorean DMC-12.
-      - question: How much does it cost to repair the supension on a DeLorean DMC-12?
+      - question: How much does it cost to repair the suspension on a DeLorean DMC-12?
         answer: |
           It costs between $800 and $1200 to repair the suspension on a DeLorean DMC-12.
       - question: |
